@@ -1,4 +1,4 @@
-### This is a test project
+# This is a test project
 
 ## The purpose of this test to get more comfortable using Git and GitHub
 
